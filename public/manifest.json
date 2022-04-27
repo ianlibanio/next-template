@@ -1,0 +1,21 @@
+{
+  "name": "Next.JS template",
+  "short_name": "Template",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#0d1117",
+  "description": "A Next.JS template using tailwindcss.",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#0d1117"
+}

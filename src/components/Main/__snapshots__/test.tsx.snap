@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<div>
+  <div>
+    <h1
+      class="text-3xl font-bold underline"
+    >
+      Hello, world!
+    </h1>
+  </div>
+</div>
+`;
